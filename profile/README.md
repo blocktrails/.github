@@ -8,8 +8,8 @@ Blocktrails are a primitive for anchoring evolving state to Bitcoin using output
 
 | Resource | Description |
 |----------|-------------|
-| [blocktrails.github.io](https://blocktrails.github.io) | Landing page — start here |
-| [Specification](https://blocktrails.github.io/spec/) | Full technical spec |
+| [blocktrails.org](https://blocktrails.org) | Landing page — start here |
+| [Specification](https://blocktrails.org/spec/) | Full technical spec |
 | [Reference Implementation](https://github.com/blocktrails/blocktrails) | JavaScript/Node.js library |
 
 ## Quick Example
